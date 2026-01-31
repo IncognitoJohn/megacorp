@@ -1,1 +1,3 @@
 partner list
+blupo.dev
+TheStartup
