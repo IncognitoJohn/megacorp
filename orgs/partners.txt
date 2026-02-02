@@ -1,3 +1,4 @@
 partner list
-sales inc
+SalesInc
 TheStartup
+ClosedML
